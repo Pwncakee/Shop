@@ -1,2 +1,5 @@
 #CODE HERE
 //IMPLEMENT GUI
+
+def gui:
+
